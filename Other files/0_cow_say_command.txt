@@ -2,10 +2,10 @@
 Description: This is the file that will be modified.
  _________________________________________
 / If at first you do succeed, try to hide \
-\ your astonishment.                      /
+\ your astonishment.    Zzzz...           /
  -----------------------------------------
         \   ^__^
-         \  (oo)\_______
+         \  (--)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
